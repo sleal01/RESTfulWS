@@ -1,0 +1,2 @@
+Uso:		Educacional
+Licencia:	Free
